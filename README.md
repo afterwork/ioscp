@@ -1,2 +1,2 @@
 # ioscp
-An SCP Client that is writing stdin to a remote server over scp 
+A SCP Client that is catching stdin and write it to a file on the remote server. 
